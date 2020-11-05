@@ -33,3 +33,4 @@ You have the online lesson about bootstrap and the cheat sheet about bootstrap i
 Coding is a science, facts matter and you have no facts. 
 - Don't Keep wondering around for hours without seeking help: Google is only as useful as you are good at googling, please speak to other students or your instructors. 
 - Change strategy: Einstein once said, if you do the same stuff you will get the same results.
+# Bootstrap-Instagram-Photo-Feed
